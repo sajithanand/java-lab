@@ -72,3 +72,4 @@ Enter the elements in the matrix:
 It is a symmetric matrix
 
 */
+//Verified
